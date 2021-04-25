@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-blueprint": {
+    "promptValues": {
+      "githubName": "ducpm1310",
+      "authorName": "Pham Duc",
+      "authorEmail": "ducpm.neu@gmail.com",
+      "authorUrl": "neu.edu.vn"
+    }
+  }
+}
