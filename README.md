@@ -98,3 +98,4 @@ jhipster -d --blueprint bluedemo
 [travis-url]: https://travis-ci.org/ducpm1310/generator-jhipster-bluedemo
 [daviddm-image]: https://david-dm.org/ducpm1310/generator-jhipster-bluedemo.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/ducpm1310/generator-jhipster-bluedemo
+# bluedemo1
